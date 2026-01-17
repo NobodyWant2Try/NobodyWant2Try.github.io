@@ -22,8 +22,6 @@ links:
   - icon: "at-symbol"
     url: "mailto:yuchaojin99@gmail.com"
     label: "E-mail Me"
-  - icon: "brands/instagram"
-    url: "https://www.instagram.com/?nux=1"
   - icon: "brands/github"
     url: "https://github.com/NobodyWant2Try"
   - icon: "custom/csdn"
