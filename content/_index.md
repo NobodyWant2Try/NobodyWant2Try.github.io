@@ -52,4 +52,7 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+      background:
+        gradient_mesh:
+          enable: true
 ---
