@@ -1,6 +1,5 @@
 ---
-title: 'Projects'
-date: 2024-05-19
+title: 'Interesting Tools'
 type: landing
 
 design:
@@ -11,10 +10,11 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
+      title: Interesting Tools
+      text: Here are some interesting things you can have fun!
       filters:
         folders:
-          - projects
+          - tools
     design:
       view: article-grid
       fill_image: false
