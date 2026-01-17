@@ -53,17 +53,6 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: false
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
     id: news
     content:
       title: News
@@ -85,9 +74,11 @@ sections:
         folders:
           - projects
         exclude_featured: false
-      count: 8      # 最多展示几个项目
+      count: 4     # 最多展示几个项目
       order: desc
     design:
       view: card    # 项目卡片风格，也可以用 showcase 等
-      columns: 2
+      columns: 4
+      spacing:
+        padding: ['2rem', '0', '2rem', '0']
 ---
