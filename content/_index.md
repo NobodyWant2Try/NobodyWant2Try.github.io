@@ -65,20 +65,4 @@ sections:
       order: desc
     design:
       view: card
-  - block: collection
-    id: projects
-    content:
-      title: Projects
-      text: ''
-      filters:
-        folders:
-          - projects
-        exclude_featured: false
-      count: 4     # 最多展示几个项目
-      order: desc
-    design:
-      view: card    # 项目卡片风格，也可以用 showcase 等
-      columns: 4
-      spacing:
-        padding: ['2rem', '0', '2rem', '0']
 ---
