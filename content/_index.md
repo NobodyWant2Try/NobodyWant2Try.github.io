@@ -52,17 +52,4 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-  - block: collection
-    id: news
-    content:
-      title: News
-      filters:
-        folders:
-          - blog      # 直接从 blog 文件夹读
-        exclude_future: false
-        exclude_past: false
-      count: 10
-      order: desc
-    design:
-      view: card
 ---

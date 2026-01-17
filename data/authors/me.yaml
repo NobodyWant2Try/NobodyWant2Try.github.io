@@ -59,13 +59,16 @@ experience:
   - role: "Summer research project"
     org: "VCL Summer School, PKU"
     start: "2025-07-01"
+    end: "2025-09-01"
     summary: "I made some researches on the intersection of 3D Gaussian Splatting, satellite image 3D Reconstruction and SDS Loss\n"
 skills:
   - name: "Technical Skills"
     items:
       - label: "Python"
-        level: 4
+        level: 3
       - label: "Cpp"
+        level: 3
+      - label: "Latex"
         level: 3
   - name: "Research & Communication"
     items:
@@ -74,7 +77,6 @@ skills:
 languages:
   - name: "Chinese"
     level: 5
-    label: "Native"
   - name: "English"
     level: 3
 awards:
