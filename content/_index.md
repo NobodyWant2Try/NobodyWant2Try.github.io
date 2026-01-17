@@ -89,5 +89,5 @@ sections:
       order: desc
     design:
       view: card    # 项目卡片风格，也可以用 showcase 等
-      columns: 3
+      columns: 2
 ---
