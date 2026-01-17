@@ -64,30 +64,30 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
-  id: news
-  content:
-    title: News
-    filters:
-      folders:
-        - blog      # 直接从 blog 文件夹读
-      exclude_future: false
-      exclude_past: false
-    count: 10
-    order: desc
-  design:
-    view: card
+    id: news
+    content:
+      title: News
+      filters:
+        folders:
+          - blog      # 直接从 blog 文件夹读
+        exclude_future: false
+        exclude_past: false
+      count: 10
+      order: desc
+    design:
+      view: card
   - block: collection
-  id: projects
-  content:
-    title: Projects
-    text: ''
-    filters:
-      folders:
-        - projects
-      exclude_featured: false
-    count: 8      # 最多展示几个项目
-    order: desc
-  design:
-    view: card    # 项目卡片风格，也可以用 showcase 等
-    columns: 3
+    id: projects
+    content:
+      title: Projects
+      text: ''
+      filters:
+        folders:
+          - projects
+        exclude_featured: false
+      count: 8      # 最多展示几个项目
+      order: desc
+    design:
+      view: card    # 项目卡片风格，也可以用 showcase 等
+      columns: 3
 ---
