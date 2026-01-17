@@ -67,7 +67,6 @@ sections:
   id: news
   content:
     title: News
-    text: ''
     filters:
       folders:
         - blog      # 直接从 blog 文件夹读
