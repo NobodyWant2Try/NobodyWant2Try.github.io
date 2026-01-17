@@ -56,45 +56,31 @@ education:
     institution: "PKU"
     from: "2023-09-01"
 experience:
-  # - role: "Senior AI Research Scientist"
-  #   org: "Meta AI"
-  #   start: "2020-01-01"
-  #   summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
-  #   button:
-  #     text: "View portfolio"
-  #     url: "/"
-  #     icon: "hero/arrow-down-tray"
-  # - role: "AI Research Intern"
-  #   org: "OpenAI"
-  #   start: "2019-06-01"
-  #   end: "2019-12-31"
-  #   summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
+  - role: "Summer research project"
+    org: "VCL Summer School, PKU"
+    start: "2025-07-01"
+    summary: "I made some researches on the intersection of 3D Gaussian Splatting, satellite image 3D Reconstruction and SDS Loss\n"
 skills:
   - name: "Technical Skills"
     items:
       - label: "Python"
-        level: 5
-      - label: "Machine Learning"
-        level: 5
-      - label: "3D Reconstruction"
         level: 4
-  # - name: "Research & Communication"
-  #   items:
-  #     - label: "Academic Writing"
-  #       level: 5
-  #     - label: "Conference Presentations"
-  #       level: 4
-  #     - label: "Grant Proposals"
-  #       level: 4
+      - label: "Cpp"
+        level: 3
+  - name: "Research & Communication"
+    items:
+      - label: "Academic Writing"
+        level: 1
 languages:
-  - name: "English"
-    level: 5
   - name: "Chinese"
     level: 5
     label: "Native"
-# awards:
-#   - title: "Best Paper Award"
-#     awarder: "NeurIPS"
-#     date: "2022-12-01"
-#     summary: "Awarded for groundbreaking work on efficient training of large models."
-#     icon: "hero/trophy"
+  - name: "English"
+    level: 3
+awards:
+  - title: "Third Prize Scholarship of Peking University"
+    awarder: "PKU"
+    date: "2025-12"
+  - title: "\"Jiang Zhehan Cup\" Mathematical Modeling and Computer Application Competition - Second Prize"
+    awarder: "School of Mathematical Science, PKU"
+    date: "2025-04"
