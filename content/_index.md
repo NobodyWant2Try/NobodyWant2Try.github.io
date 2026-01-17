@@ -53,6 +53,5 @@ sections:
     design:
       columns: '1'
       background:
-        gradient_mesh:
-          enable: true
+        color: 'neutral-50'
 ---

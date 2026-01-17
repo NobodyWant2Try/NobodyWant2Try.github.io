@@ -69,11 +69,21 @@ skills:
       - label: "Cpp"
         level: 3
       - label: "Latex"
-        level: 3
+        level: 4
   - name: "Research & Communication"
     items:
       - label: "Academic Writing"
         level: 1
+  - name: "Hobbies"
+    items:
+      - label: "🏓 Table Tennis 🏓"
+        level: 4
+      - label: "🛼 Skating 🛼"
+        level: 4
+      - label: "📷 Photograpy 📸"
+        level: 2
+      - label: "⛰️ Hiking 🏃‍♂️"
+        level: 5
 languages:
   - name: "Chinese"
     level: 5

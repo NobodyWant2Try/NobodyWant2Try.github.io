@@ -1,4 +1,4 @@
 ---
-title: Blogs
+title: My Footprint
 view: article-grid
 ---
