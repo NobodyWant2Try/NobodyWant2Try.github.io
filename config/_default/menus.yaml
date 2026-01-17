@@ -18,4 +18,4 @@ main:
     weight: 30
   - name: Gallery
     url: gallery/
-    weight: 40
+    weight: 35
