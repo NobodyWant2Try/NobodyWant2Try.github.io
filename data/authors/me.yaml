@@ -30,6 +30,8 @@ links:
     url: "https://www.zhihu.com/people/xing-ji-xian-jing-20"
   - icon: "custom/xiaohongshu"
     url: "https://www.xiaohongshu.com/user/profile/6617f7ab00000000070064ca"
+  - icon: "custom/bilibili.svg"
+    url: "https://space.bilibili.com/514399853/upload/video"
 interests:
   - "Multimodal Large Language Models"
   - "Computer Vision"
